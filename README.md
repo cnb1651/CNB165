@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @CNB165
 - 👀 I’m interested in programmation
 - 🌱 I’m currently learning Python and Java
+- I like HTML, CSS, JavaScript and PHP
 
 <!---
 CNB165/CNB165 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
